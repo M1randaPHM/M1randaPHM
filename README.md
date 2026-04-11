@@ -27,8 +27,8 @@ Estas são as principais linguagens e ferramentas que utilizo no meu dia a dia:
 ---
 📊 GitHub Stats
 <p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=M1randaPHM&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1randaPHM&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
