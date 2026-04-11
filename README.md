@@ -25,10 +25,9 @@ Estas são as principais linguagens e ferramentas que utilizo no meu dia a dia:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
 ---
-📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=M1randaPHM&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1randaPHM&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=M1randaPHM&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
