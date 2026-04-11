@@ -22,7 +22,7 @@ Estas são as principais linguagens e ferramentas que utilizo no meu dia a dia:
 
 ### 📫 Como me encontrar
 <!-- Se você tiver LinkedIn ou E-mail, coloque os links abaixo. Se não tiver, pode apagar essa parte! -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://m1randaphm.github.io/M1randaPHM/linkedin.html)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m1randa_gz)
 ---
 ### 📊 GitHub Stats
