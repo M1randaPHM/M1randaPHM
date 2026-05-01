@@ -31,6 +31,4 @@ Estas são as principais linguagens e ferramentas que utilizo no meu dia a dia:
 </p>
 
 ---
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com/?lines=Estudando,+construindo+e+evoluindo+um+commit+de+cada+vez...&font=Inter&size=14&pause=1000&color=C9D1D9&center=true&vCenter=true&width=800&height=30" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Estudando,+construindo+e+evoluindo+um+commit+de+cada+vez&font=Inter&size=14&pause=1000&color=C9D1D9&vCenter=true&width=800&height=30" alt="Typing SVG" />
